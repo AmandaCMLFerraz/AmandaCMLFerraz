@@ -5,8 +5,8 @@ Sou estudante de Sistemas de Informação na Unochapecó e apaixonada por desenv
 🌟 Nome: Amanda Ferraz <br>
 🎓 Idade: 20 anos <br>
 🎓 Curso: Sistemas de Informação <br>
-💻 Desenvolvimento Fullstack: HTML, CSS, JavaScript, ReactJS, Node.js <br>
-📚 Interesses de Aprendizado: React Native, PHP, Laravel, Docker
+💻 Desenvolvimento Fullstack: HTML, CSS, JavaScript, ReactJS, Node.js, React Native <br>
+📚 Interesses de Aprendizado: PHP, Laravel, Docker
 
 ## **Tecnologias e Ferramentas**
 Aqui estão algumas das tecnologias com as quais tenho experiência:
